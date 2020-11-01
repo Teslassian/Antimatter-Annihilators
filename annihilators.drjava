@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20120818-r5686">
+  <project autorefresh="false" main="Annihilators" manifest="" root="" work="">
+    <createjar file="annihilators.jar" flags="7"/>
+    <source>
+      <file active="true" name="Annihilators.java" package="" timestamp="01-Nov-2020 13:06:59">
+        <select from="1257" to="1257"/>
+        <scroll column="20" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

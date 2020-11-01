@@ -56,7 +56,7 @@ public final class Player extends Entity
     
     if (this.extant)
     {
-      StdDraw.picture(x, y, "spaceship.gif", extent, extent, theta); //needs to draw an angle, therefore it overrides the parent class
+      StdDraw.picture(x, y, "/"+System.getProperty("user.dir")+"/Graphics/spaceship.png", extent, extent, theta); //needs to draw an angle, therefore it overrides the parent class
     }
     else
     {

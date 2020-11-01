@@ -29,14 +29,14 @@ public class Missile extends Entity {
         delta -= velocity/3;
         this.x = this.ex;
         this.y = this.ey + delta;
-      StdDraw.picture(x, y, "antiproton.gif", length, length, theta);
+      StdDraw.picture(x, y, "/"+System.getProperty("user.dir")+"/Graphics/electron.png", length, length, theta);
       }
       else 
       {
         delta += velocity;
         this.x = this.ex + delta*Math.cos((theta+90)/180*Math.PI);
         this.y = this.ey + delta*Math.sin((theta+90)/180*Math.PI);
-      StdDraw.picture(x, y, "proton.gif", length, length, theta);
+      StdDraw.picture(x, y, "/"+System.getProperty("user.dir")+"/Graphics/proton.png", length, length, theta);
       }
     }
   }
