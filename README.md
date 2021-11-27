@@ -8,15 +8,11 @@ To run the game, double-click ```annihilators.jar```.
 
 ## Screenshots
 
-Gameplay:
-
-![menu.png]<img src='images/menu.png' width="400" height="790">
-
-Gameplay:
-![bunkers.png](images/bunkers.png)
+Main menu:
+![menu.png]<img src='images/menu.png' width="500" height="500">
 
 Gameplay:
-![boss.png](boss/gameplay.png)
+![bunkers.png]<img src='images/bunkers.png' width="500" height="500">
 
-Gameplay:
-![gameover.png](gameover/gameplay.png)
+Boss:
+![boss.png]<img src='images/boss.png' width="500" height="500">
