@@ -9,4 +9,4 @@ To run the game, double-click ```annihilators.jar```.
 ## Screenshots
 
 Gameplay:
-![images/gameplay.png](gameplay.png)
+![gameplay.png](images/gameplay.png)
