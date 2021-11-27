@@ -5,3 +5,8 @@ A game similar to Space Invaders. The purpose of this project was to implement o
 ## About
 
 To run the game, double-click ```annihilators.jar```.
+
+## Screenshots
+
+Gameplay:
+![images/gameplay.png](gameplay.png)
